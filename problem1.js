@@ -30,3 +30,4 @@ if (input=='') {
     console.log("Output is: ");
     console.log(allLongestStrings(input));
 }
+
